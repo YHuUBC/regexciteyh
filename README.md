@@ -14,7 +14,7 @@ see [stringr](https://stringr.tidyverse.org),
 <!-- badges: start -->
 <!-- badges: end -->
 
-## This package is just created for learning purpose. The author is Jenny and I have no credits at all. Please see the original package:<https://github.com/jennybc/regexcite/blob/main/README.Rmd>
+## This package is just created for learning purpose. The author is Jenny and I have no credits at all. Please see the original package:<https://github.com/jennybc/regexcite>
 
 The goal of regexcite is to make regular expressions more exciting! It
 provides convenience functions to make some common tasks with string
